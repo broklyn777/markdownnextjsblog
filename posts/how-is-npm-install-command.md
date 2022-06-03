@@ -7,7 +7,7 @@ image : "images/npm-init-command-1.png"
 images : ["images/npm-init-command-1.png"]
 slug : "how-is-npm-install-command"
 summary : "Npm install command help to install package from npmjs.org"
-tags : ["npm", "npm-cli", "npm install command"]
+tags : ["npm", "npm-cli", "React2", "npm install command"]
 title : "What is the npm install command?"
 draft : false
 ---

@@ -12,9 +12,9 @@ export default function Category({ posts }) {
 
   return (
     <>
-     <NextSeo
-     title= 'Access your category realted articles'
-     description= 'Access your category realted articles'
+      <NextSeo
+        title='Access your category realted articles'
+        description='Access your category realted articles'
         openGraph={{
           url: 'https://officialrajdeepsingh.dev',
           title: 'Access your category realted articles',
@@ -118,6 +118,9 @@ export async function getStaticProps({ params: { slug } }) {
   const files = fs.readdirSync(path.join('posts'))
 
   let tempStorage = []
+
+
+
 
 
 

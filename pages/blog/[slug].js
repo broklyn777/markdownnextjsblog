@@ -8,29 +8,29 @@ import { NextSeo } from 'next-seo';
 
 export default function PostPage({ content, frontmatter }) {
   const date = new Date(frontmatter.date)
-  const imageMeta= frontmatter.images.map(
-      image  =>  {
-       const imageUrl =  ImageUrl(image)
-        return {
+  const imageMeta = frontmatter.images.map(
+    image => {
+      const imageUrl = ImageUrl(image)
+      return {
         url: imageUrl,
         width: 1224,
         height: 724,
         alt: frontmatter.title,
         type: 'image/jpeg',
       }
-     }
-    )
+    }
+  )
 
-   
+
   return (
     <>
-     <NextSeo
-        title={frontmatter.title} 
+      <NextSeo
+        title={frontmatter.title}
         description={frontmatter.summary}
         openGraph={{
           url: 'https:officialrajdeepsingh.dev',
           title: frontmatter.title,
-          description: frontmatter.summary ,
+          description: frontmatter.summary,
           type: 'article',
           article: {
             publishedTime: frontmatter.date,
@@ -41,7 +41,7 @@ export default function PostPage({ content, frontmatter }) {
           },
           images: imageMeta,
           site_name: 'Rajdeep Singh',
-        }}      
+        }}
       />
       <div className="container my-5">
         <div className="row">
@@ -87,7 +87,7 @@ export async function getStaticPaths() {
   //  Get files from the posts dir
   const files = fs.readdirSync(path.join('posts'))
 
-   // Get slug and frontmatter from posts
+  // Get slug and frontmatter from posts
   const temppaths = files.map((filename) => {
 
     // Get frontmatter
