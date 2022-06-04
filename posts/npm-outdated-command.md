@@ -7,7 +7,7 @@ image : "images/npm-commands.png"
 images : ["images/npm-commands.png"]
 slug : "Learn-the-NPM-outdated-package-command"
 summary : "Npm outdate command help to find old packages in your current project."
-tags : ["Npm command", "NPM CLI", "Npm "]
+tagsxxx : ["Npm command", "NPM CLI", "Npm "]
 title : "Learn the NPM outdated package command?"
 draft : false
 ---

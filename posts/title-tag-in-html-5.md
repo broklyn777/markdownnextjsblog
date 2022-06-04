@@ -8,7 +8,7 @@ image : "images/Title-tag-In-HTML-5.jpg"
 images : ["images/Title-tag-In-HTML-5.jpg"]
 slug : "title-tag-in-html-5"
 summary : "Title tag display page information in the browser toolbar."
-tags : ["html", "html 5", "html for beginner", "html tutorial", "title tag", "html title tag"]
+tagsxxx : ["html", "html 5", "html for beginner", "html tutorial", "title tag", "html title tag"]
 title : "Title tag In HTML 5?"
 
 ---

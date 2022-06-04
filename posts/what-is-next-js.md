@@ -8,7 +8,7 @@ image : "images/next.js.png"
 images : ["images/next.js.png"]
 slug : "what-is-next-js"
 summary : "Basic Introduction About Next.js #SeriesStart"
-tags : ["Next.js", "Next.js Tutorial", "React.js", "React.js Framework", "javascript Framework", "Next", "Next.js Framework"]
+tagsxxx : ["Next.js", "Next.js Tutorial", "React.js", "React.js Framework", "javascript Framework", "Next", "Next.js Framework"]
 title : "What is Next.js?"
 
 ---

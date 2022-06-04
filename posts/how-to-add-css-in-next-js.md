@@ -7,7 +7,7 @@ image : "images/next.js-add-css-code.jpg"
 images : ["images/next.js-add-css-code.jpg"]
 slug : "how-to-add-css-in-next-js"
 summary : "Easy Ways Add CSS in Next.js #SeriesPart2 \n"
-tags : ["Next.js", "Next", "React2", "Next.js Tutorial", "React.js", "react.js tutorial"]
+tagsxxx : ["Next.js", "Next", "React2", "Next.js Tutorial", "React.js", "react.js tutorial"]
 title : "How To Add CSS In Next js?"
 draft : false
 ---

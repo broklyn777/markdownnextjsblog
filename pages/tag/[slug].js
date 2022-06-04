@@ -14,9 +14,9 @@ export default function tag({ posts }) {
 
   return (
     <>
-   <NextSeo
-     title= 'Access your tag realted articles'
-     description= 'Access your tag realted articles'
+      <NextSeo
+        title='Access your tag realted articles'
+        description='Access your tag realted articles'
         openGraph={{
           url: 'https://officialrajdeepsingh.dev',
           title: 'Access your tag realted articles',
@@ -80,7 +80,7 @@ export async function getStaticPaths() {
     const { data: frontmatter } = matter(markdownWithMeta)
 
     if (frontmatter.draft === false) {
-      frontmatter.tags.map(
+      frontmatter.tagsxxx.map(
         tag => {
           let slug = slugify(tag)
           tempStorage.push({ params: { slug } });
@@ -138,10 +138,10 @@ export async function getStaticProps({ params: { slug } }) {
 
 
     if (frontmatter.draft === false) {
-      frontmatter.tags.map(
+      frontmatter.tagsxxx.map(
         tag => {
-          let tagSlug = slugify(tag)
-          if (slug === tagSlug) {
+          let tagsxxxlug = slugify(tag)
+          if (slug === tagsxxxlug) {
             tempStorage.push({ post: frontmatter })
           }
         }

@@ -8,7 +8,7 @@ image : "images/Linux-Basic-Introduction--1-.png"
 images : ["images/Linux-Basic-Introduction--1-.png"]
 slug : "keyboard-shortcut-keys-for-linux-terminal"
 summary : "Linux Keyboard Help To Enhance Your Working Speed Inside Command Tool"
-tags : ["Linux", "Keyboard Shortcut", "Shortcut keys", "Linux Terminal"]
+tagsxxx : ["Linux", "Keyboard Shortcut", "Shortcut keys", "Linux Terminal"]
 title : "All Keyboard Shortcuts For Linux Terminal?"
 
 ---

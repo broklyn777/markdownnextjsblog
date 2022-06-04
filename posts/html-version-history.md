@@ -8,7 +8,7 @@ image : "images/HTML-Version-History.jpg"
 images : ["images/HTML-Version-History.jpg"]
 slug : "html-version-history"
 summary : "HTML History Very Complicated. But I Try To Explain Very Easy Way."
-tags : ["html", "html 5", "HTML History", "Html Version", "Who Create Html"]
+tagsxxx : ["html", "html 5", "HTML History", "Html Version", "Who Create Html"]
 title : "HTML Version History?"
 
 ---
@@ -46,7 +46,7 @@ In the early days, **_HTML 4.0_** was code-named **_COUGAR_**. This version intr
 
 ### HTML 5:
 
-HTML 5 Now A standard version and secondly More Popular On Earth. HTML 5 Give Lots Of Tags Help To Browser Understand Text Format and Secondly Build Unique beautiful Website Design.
+HTML 5 Now A standard version and secondly More Popular On Earth. HTML 5 Give Lots Of tagsxxx Help To Browser Understand Text Format and Secondly Build Unique beautiful Website Design.
 
 ---
 

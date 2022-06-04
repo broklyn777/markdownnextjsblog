@@ -1,13 +1,13 @@
 ---
 author : "Rajdeep Singh"
-categories : ["npm", "npm-cli", "npm install command"]
+categories : ["bjorn", "npm-cli", "npm install command"]
 date : "2022-03-20T13:09:24Z"
-description : "Npm install command help to install package from npmjs.org"
+description : "bjorn best guy ever!!"
 image : "images/npm-init-command-1.png"
 images : ["images/npm-init-command-1.png"]
-slug : "how-is-npm-install-command"
-summary : "Npm install command help to install package from npmjs.org"
-tagsxxx : ["npm", "npm-cli", "React2", "npm install command"]
+slug : "bjorn-hejar"
+summary : "bjorn hejar på AIK gnagare"
+tagsxxx : ["npm", "npm-cli", "bjorn", "npm install command"]
 title : "What is the npm install command?"
 draft : false
 ---
